@@ -8,5 +8,12 @@ Step 5 - Run the Client 1 using java Client
 Step 6 - Run the Client 2 using java Client 
 
  Use new terminals for each step 2,3,4,5,6
+
+
+IT23464032 M.A.L.R. Karunasekara
+IT23392830 W.W.G.S.N.Gunawardhana
+IT23162082 H.A.H.Senadheera  helindusenadheera@gmail.com
+IT23194144 M.F.M.Amri  
+
  
  
